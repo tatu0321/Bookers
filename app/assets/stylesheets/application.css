@@ -24,7 +24,7 @@ body {
 h1 {
   display: block;
   font-size: 2em;
-  margin: 0.67em 0px;
+  margin: 0.67em 0;
   font-weight: bold;
   unicode-bidi: isolate;
 }
@@ -79,4 +79,12 @@ label {
   padding: 2px;
   background-color: red;
   display: table;
+}
+
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin: 0.83em 0;
+  font-weight: bold;
+  unicode-bidi: isolate;
 }
