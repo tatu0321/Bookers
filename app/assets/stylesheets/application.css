@@ -88,3 +88,7 @@ h2 {
   font-weight: bold;
   unicode-bidi: isolate;
 }
+
+#notice {
+  color: green;
+}
